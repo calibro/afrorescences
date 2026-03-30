@@ -1,0 +1,1 @@
+@property --stop{syntax: "<percentage>"; initial-value: 0%; inherits: false;}@keyframes svelte-1uha8ag-gradientShift{0%{--stop: 100%}50%{--stop: 40%}to{--stop: 100%}}.wrapper.svelte-1uha8ag{--stop: 0%;background:linear-gradient(var(--bs-warning) 0%,var(--bs-info) var(--stop));animation:svelte-1uha8ag-gradientShift 20s ease-in-out infinite}
